@@ -5,3 +5,4 @@
 3. ---> Add
 4. ---> PrimeNumber
 5. ---> FloatMultiply
+6. ---> ASCIIValue
