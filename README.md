@@ -6,5 +6,6 @@
 4. ---> PrimeNumber
 5. ---> FloatMultiply
 6. ---> ASCIIValue
-7. --->
+7. ---> FahrenheitToCelsius
 8. ---> SizeOfDataTypes
+9. ---> AddingComplexNumber
