@@ -6,3 +6,5 @@
 4. ---> PrimeNumber
 5. ---> FloatMultiply
 6. ---> ASCIIValue
+7. --->
+8. ---> SizeOfDataTypes
