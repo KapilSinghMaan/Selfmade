@@ -9,3 +9,4 @@
 7. ---> FahrenheitToCelsius
 8. ---> SizeOfDataTypes
 9. ---> AddingComplexNumber
+10. --->PrimenumberTillN
