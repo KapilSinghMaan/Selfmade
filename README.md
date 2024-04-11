@@ -4,3 +4,4 @@
 2. ---> PrintEnteredInteger
 3. ---> Add
 4. ---> PrimeNumber
+5. ---> FloatMultiply
