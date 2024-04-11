@@ -9,4 +9,7 @@
 7. ---> FahrenheitToCelsius
 8. ---> SizeOfDataTypes
 9. ---> AddingComplexNumber
-10. --->PrimenumberTillN
+10. ---> PrimenumberTillN
+11. ---> SimpleInterest
+12. ---> CompoundInterest
+13. ---> AreaPerimeterRectangle
