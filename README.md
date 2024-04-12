@@ -23,3 +23,5 @@
 21. ---> PrintAlphabets
 22. ---> LeapYear
 23. ---> Factorial
+24. ---> SimpleCalculator
+25. ---> MultiplicationTable
