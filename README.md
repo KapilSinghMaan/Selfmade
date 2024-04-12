@@ -15,3 +15,11 @@
 13. ---> SimpleInterest
 14. ---> CompoundInterest
 15. ---> AreaPerimeterRectangle
+16. ---> PositiveNegativeOrZero
+17. ---> EvenOrOdd
+18. ---> VowelOrconsonant
+19. ---> LargestAmongThree
+20. ---> NaturalNumberSum
+21. ---> PrintAlphabets
+22. ---> LeapYear
+23. ---> Factorial
