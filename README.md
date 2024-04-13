@@ -25,3 +25,11 @@
 23. ---> Factorial
 24. ---> SimpleCalculator
 25. ---> MultiplicationTable
+26. ---> FibonacciSeries
+27. --->
+28. ---> ArmstrongNumber
+29. ---> ArmstrongTill1000
+30. ---> ArmstrongInInterval
+31. ---> ReverseNumber
+32. ---> PalindromeNumberOrNot
+33. ---> PrimeNumberInInterval
