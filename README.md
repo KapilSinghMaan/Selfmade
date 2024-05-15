@@ -26,7 +26,7 @@
 24. ---> SimpleCalculator
 25. ---> MultiplicationTable
 26. ---> FibonacciSeries
-27. --->
+27. ---> LCM
 28. ---> ArmstrongNumber
 29. ---> ArmstrongTill1000
 30. ---> ArmstrongInInterval
@@ -35,4 +35,7 @@
 33. ---> PrimeNumberInInterval
 34. ---> NeonNumber
 35. ---> Factors
-36. --->SumOfFibonacciNumbers
+36. ---> SumOfFibonacciNumbers
+37. ---> SimplePyramidPattern
+38. ---> PyramidPattern
+39. ---> MountainPattern
