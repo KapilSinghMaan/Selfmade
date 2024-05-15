@@ -39,3 +39,4 @@
 37. ---> SimplePyramidPattern
 38. ---> PyramidPattern
 39. ---> MountainPattern
+40. ---> HollowMountainPattern
