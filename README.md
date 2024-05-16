@@ -40,3 +40,4 @@
 38. ---> PyramidPattern
 39. ---> MountainPattern
 40. ---> HollowMountainPattern
+41. ---> BoundaryNumberPattern
