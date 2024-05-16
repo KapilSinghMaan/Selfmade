@@ -42,3 +42,4 @@
 40. ---> HollowMountainPattern
 41. ---> BoundaryNumberPattern
 42. ---> HourGlassPattern
+43. ---> HollowHourGlass
