@@ -43,3 +43,5 @@
 41. ---> BoundaryNumberPattern
 42. ---> HourGlassPattern
 43. ---> HollowHourGlass
+44. ---> LessThanPattern
+45. ---> CrossPattern
