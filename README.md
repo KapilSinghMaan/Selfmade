@@ -45,3 +45,4 @@
 43. ---> HollowHourGlass
 44. ---> LessThanPattern
 45. ---> CrossPattern
+46. ---> HeartPattern
