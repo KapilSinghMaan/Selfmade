@@ -46,3 +46,7 @@
 44. ---> LessThanPattern
 45. ---> CrossPattern
 46. ---> HeartPattern
+47. ---> SortingInAscendingOrder
+48. ---> SortingInDescendingOrder
+49. ---> SelectionSort
+50. ---> BubbleSort
