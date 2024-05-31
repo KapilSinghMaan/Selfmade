@@ -52,8 +52,8 @@
 50. ---> BubbleSort
 51. ---> LinearSearch
 52. ---> BinarySearch
-53. ---> LeftShift
-54. ---> RightShift
+53. ---> LeftShiftArray
+54. ---> RightShiftArray
 55. ---> RemoveDuplicate
 56. ---> RemoveAllDuplicate(((NOT ADDED)))
 57. ---> DeleteByValue
