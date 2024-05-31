@@ -50,3 +50,11 @@
 48. ---> SortingInDescendingOrder
 49. ---> SelectionSort
 50. ---> BubbleSort
+51. ---> LinearSearch
+52. ---> BinarySearch
+53. ---> LeftShift
+54. ---> RightShift
+55. ---> RemoveDuplicate
+56. ---> RemoveAllDuplicate(((NOT ADDED)))
+57. ---> DeleteByValue
+58. ---> DeleteByPosition
