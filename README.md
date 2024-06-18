@@ -59,3 +59,6 @@
 57. ---> DeleteByValue
 58. ---> DeleteByPosition
 59. ---> AllOperationOfArray
+60. ---> Fn_Factorial
+61. ---> Fn_PrimeNumber
+62. ---> Fn_PrimeInInterval
