@@ -55,6 +55,7 @@
 53. ---> LeftShiftArray
 54. ---> RightShiftArray
 55. ---> RemoveDuplicate
-56. ---> RemoveAllDuplicate(((NOT ADDED)))
+56. ---> RemoveAllDuplicate
 57. ---> DeleteByValue
 58. ---> DeleteByPosition
+59. ---> AllOperationOfArray
